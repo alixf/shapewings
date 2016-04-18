@@ -1,0 +1,6 @@
+-js build/main.js
+-main Game
+-lib heaps
+-dce full
+-cp src
+-D resourcesPath=assets
